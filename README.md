@@ -1,2 +1,11 @@
-# test.csharp.terminal
+﻿# test.csharp.terminal
+*Примери от първите модули на курса за C# в Aula.bg (BOLD)*
+**Italic**
+
+
 За обучение :)
+
+* Текст 1 
+* Текст 2
+- Текст 3
+- Текст 4
