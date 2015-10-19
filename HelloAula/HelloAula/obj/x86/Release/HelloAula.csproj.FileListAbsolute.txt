@@ -1,0 +1,4 @@
+F:\csharpaula\test.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.exe
+F:\csharpaula\test.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.pdb
+F:\csharpaula\test.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
+F:\csharpaula\test.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.pdb
